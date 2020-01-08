@@ -12,10 +12,10 @@
     <option name="pristineConfig" value="false" />
     <option name="upperCaseTabs" value="true" />
     <option name="settingsSelectedTab" value="1" />
-    <option name="tabsHeight" value="42" />
-    <option name="accentColor" value="ff79c5" />
-    <option name="selectedTheme" value="DRACULA" />
+    <option name="tabsHeight" value="30" />
+    <option name="accentColor" value="ffd866" />
+    <option name="selectedTheme" value="MONOKAI" />
     <option name="userId" value="-3f2d2e9:164ab34340a:-7fff" />
-    <option name="version" value="4.11.3" />
+    <option name="version" value="4.11.5" />
   </component>
 </application>
