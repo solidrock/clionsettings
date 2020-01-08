@@ -2,6 +2,7 @@
   <component name="MaterialThemeConfig">
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
+    <option name="compactSidebar" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
@@ -15,7 +16,6 @@
     <option name="accentColor" value="ff79c5" />
     <option name="selectedTheme" value="DRACULA" />
     <option name="userId" value="-3f2d2e9:164ab34340a:-7fff" />
-    <option name="version" value="4.11.2" />
-    <option name="tabHighlightPosition" value="Full" />
+    <option name="version" value="4.11.3" />
   </component>
 </application>
