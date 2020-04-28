@@ -1,5 +1,7 @@
 <application>
   <component name="bashsupport-pro">
-    <option name="startupCounter" value="3" />
+    <option name="metricsEnabled" value="true" />
+    <option name="showMetricsNotification" value="false" />
+    <option name="startupCounter" value="4" />
   </component>
 </application>
